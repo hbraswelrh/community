@@ -1,6 +1,6 @@
-# Container Layer Design Guide
+# Containers Design Guide
 
-This guide explains best practices for designing efficient Docker/Podman container layers in Containerfiles (Dockerfiles).
+This guide explains best practices for designing containers.
 
 ## Table of Contents
 - [Understanding Layers](#understanding-layers)
