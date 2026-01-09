@@ -151,4 +151,8 @@ We should centralize workflows, configurations, and templates as much as possibl
 - **Static type check:** Use `mypy` as static type checker.
 - **Non-Python files:** Use [Megalinter](https://github.com/oxsecurity/megalinter) to lint in a CI task. See [megalinter.yaml](https://github.com/complytime/complyscribe/blob/main/.mega-linter.yml) for more information.
 
+### Containers
+
+- [Containers Guide](./CONTAINERS_GUIDE.md)
+
 ---
